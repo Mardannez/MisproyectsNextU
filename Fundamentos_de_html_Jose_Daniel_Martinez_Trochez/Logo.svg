@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000000" id="svg_1" height="309.333327" width="558.222211" y="87.111116" x="42.666676" stroke-width="5" fill="#007f7f"/>
+  <line id="svg_2" y2="332.444444" x2="542.222222" y1="328.888889" x1="112" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <text stroke="#000000" transform="matrix(40.12645721435547,0,0,3.740827798843384,-4590.63386285305,-399.43282624706626) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_3" y="167.111111" x="122.666667" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000"/>
+  <text stroke="#000000" transform="matrix(9.141621033478904,0,0,7.8783717200389916,-2547.6642550700117,-1237.1908153782474) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_5" y="193.777778" x="312.888889" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff">DAN</text>
+ </g>
+</svg>
